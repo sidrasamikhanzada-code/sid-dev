@@ -1,4 +1,4 @@
-# Assalam o Alaikum , I'm Sidra 
+# Assalam o Alaikum , I'm Sidra Sami Khanzada
 
 I'm a final-year Computer Science student and frontend developer based in Pakistan,
 building clean and responsive websites for businesses and individuals.
